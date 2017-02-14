@@ -3,7 +3,7 @@
   (general
     (links 38)
     (no_connects 2)
-    (area 107.093 67.132999 189.873001 132.29)
+    (area 107.093 67.132999 210.034 142.019001)
     (thickness 1.6)
     (drawings 6)
     (tracks 153)
@@ -13,6 +13,12 @@
   )
 
   (page A4)
+  (title_block
+    (title "DDS motherboard")
+    (date 2017-02-14)
+    (rev "Rev A")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
